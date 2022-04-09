@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=홍하빈%20&fontSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HongHaBin&fontAlign=70&fontAlignY=40&animation=twinkling" style="max-width: 100%;")
 
 
 📫
