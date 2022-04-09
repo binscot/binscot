@@ -5,10 +5,13 @@
   
 ### Hi there 👋 <br> I'm a front-end developer.
   
-### 📫 : binscot0317@gmail.com
+
+#### <a href="https://imminent-helium-b24.notion.site/75132a5f490c46d5bfef06b124d6a300" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+#### 📫 : binscot0317@gmail.com
   
 
 <div align=center> 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
