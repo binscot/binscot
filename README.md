@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HongHaBin&fontSize=15 &fontAlign=70&fontAlignY=40&animation=twinkling")
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=HongHaBin&fontAlign=70&fontAlignY=40&animation=twinkling")
 
 
 📫
