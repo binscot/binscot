@@ -13,7 +13,7 @@
   
 ### Hi there 👋 <br> I'm a front-end developer.
   
-<a href="https://imminent-helium-b24.notion.site/75132a5f490c46d5bfef06b124d6a300" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+<a href="https://imminent-helium-b24.notion.site/75132a5f490c46d5bfef06b124d6a300" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <br>
 binscot0317@gmail.com 
 
