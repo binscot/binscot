@@ -38,7 +38,6 @@ binscot0317@gmail.com
   <br>
 
 <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">
-  <img src="https://img.shields.io/badge/aws codedeploy-9D1620?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 
